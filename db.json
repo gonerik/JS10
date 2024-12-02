@@ -1,5 +1,6 @@
 {
-  "users":[
-    {"name": "gonerik", "email": "ivan@gmail.com"}
+  "characters": [
+    { "id": 1, "name": "Warrior", "email": "warrior@example.com" },
+    { "id": 2, "name": "Mage", "email": "mage@example.com" }
   ]
 }
